@@ -1,0 +1,6 @@
+numpy==1.18.1
+pkg-resources==0.0.0
+PyAudio==0.2.11
+simpleaudio==1.0.4
+Wave==0.0.2
+wavio==0.0.4
